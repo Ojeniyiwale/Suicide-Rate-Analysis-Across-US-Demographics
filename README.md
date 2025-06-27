@@ -34,6 +34,10 @@ Significant rate clustering in certain years
 
 One unit dominates dataset (Deaths per 100,000)
 
+📌 A Hidden Insight: The "All Ages" Category
+
+One of the most surprising insights came from a group labeled "All Ages", which appeared 1,422 times in the dataset. While this group wasn't age-specific, it likely includes aggregated or unspecified records — a reminder that not all data fits neatly into boxes. It reinforces the need for caution when interpreting trends and highlights the importance of complete, well-categorized data collection.
+
 ✅ Recommendations
 
 Focus mental health programs on young adults (15–44)
